@@ -1,8 +1,8 @@
 # WeatherApp
 
-## Arquitectura: MVVP + CLEAN ARQUITECTURE
+## Arquitectura: MVVM + CLEAN ARCHITECTURE
 
-Se implemento una arquitectura MVVP con clean.
+Se implementó una arquitectura MVVM + Clean.
 
 ## Model
 Se crea un caso de uso para obtener el clima
@@ -14,7 +14,7 @@ Se crea un modelo con los datos necesarios para la UI
 ## Data
 Se crea la implementación del uso de caso 
 
-Se crea la petición a la api
+Se crea la petición a la api con Retrofit y MoshiConverter (Se decidió usar Moshi por qué esta más optimizado para Kotlin)
 
 Se crean los DTO response y los mappers
 
