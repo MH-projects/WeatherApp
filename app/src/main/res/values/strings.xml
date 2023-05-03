@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="weather">Weather</string>
+    <string name="condition">Condition</string>
+    <string name="degree">Degree</string>
+    <string name="percent">Percent</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+    <string name="wind">Wind</string>
+    <string name="miles_hour">miles/hour</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+</resources>
